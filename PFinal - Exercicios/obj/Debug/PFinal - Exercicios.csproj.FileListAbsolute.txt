@@ -1,0 +1,7 @@
+C:\Users\Natalia Gomes\source\repos\AprendendoCSharp\PFinal - Exercicios\bin\Debug\PFinal - Exercicios.exe.config
+C:\Users\Natalia Gomes\source\repos\AprendendoCSharp\PFinal - Exercicios\bin\Debug\PFinal - Exercicios.exe
+C:\Users\Natalia Gomes\source\repos\AprendendoCSharp\PFinal - Exercicios\bin\Debug\PFinal - Exercicios.pdb
+C:\Users\Natalia Gomes\source\repos\AprendendoCSharp\PFinal - Exercicios\obj\Debug\PFinal - Exercicios.csprojAssemblyReference.cache
+C:\Users\Natalia Gomes\source\repos\AprendendoCSharp\PFinal - Exercicios\obj\Debug\PFinal - Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\Natalia Gomes\source\repos\AprendendoCSharp\PFinal - Exercicios\obj\Debug\PFinal - Exercicios.exe
+C:\Users\Natalia Gomes\source\repos\AprendendoCSharp\PFinal - Exercicios\obj\Debug\PFinal - Exercicios.pdb
